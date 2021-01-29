@@ -1,5 +1,4 @@
 Attribute VB_Name = "ExportToJSON"
-' -> NICHT VERGESSEN: Verweis auf Microsoft Scripting Runtime hinzufÃ¼gen.
 Sub ExcelToJsonFile()
 
 Dim excelRange As Range
@@ -26,22 +25,22 @@ Offset = 0
 
 Set excelRange = Selection
 
-For i = 2 To excelRange.Columns.Count
-    If (Cells(3, i) = "") Then GoTo NextIteration 'leere Spalten ausfiltern
+For i = 1 To excelRange.Columns.Count
+    If (excelRange.Columns.Cells(1, i) = "") Then GoTo NextIteration
     Set jsonDictionary = New Scripting.Dictionary
     
-    jsonDictionary.Add "Kurs", Cells(3, i)
-    Set x = New Scripting.Dictionary 'fuer die Wochentage
+    jsonDictionary.Add "Kurs", excelRange.Columns.Cells(1, i)
+    Set x = New Scripting.Dictionary 'für die Wochentage
     
     For j = 1 To 5
-        Set y = New Scripting.Dictionary 'fuer vormittag/nachmittag
+        Set y = New Scripting.Dictionary 'für vormittag/nachmittag
         
         For k = 0 To 1
-            Set z = New Scripting.Dictionary 'fuer die Inhalte
+            Set z = New Scripting.Dictionary 'Inhalte
             
-            z.Add "Fach", Cells(4 + Offset, i)
-            z.Add "Trainer", Cells(5 + Offset, i)
-            z.Add "Raum", Cells(6 + Offset, i)
+            z.Add "Fach", excelRange.Columns.Cells(2 + Offset, i)
+            z.Add "Trainer", excelRange.Columns.Cells(3 + Offset, i)
+            z.Add "Raum", excelRange.Columns.Cells(4 + Offset, i)
             Offset = Offset + 3
             y.Add Tageszeit(k), z
             Set z = Nothing
@@ -64,3 +63,4 @@ Set jsonFileExport = jsonFileObject.CreateTextFile("jsonExample.json", True)
 jsonFileExport.WriteLine (JsonConverter.ConvertToJson(jsonItems, Whitespace:=3))
 
 End Sub
+
