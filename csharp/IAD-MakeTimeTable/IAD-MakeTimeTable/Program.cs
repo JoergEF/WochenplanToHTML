@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.Json;
 
 namespace IAD_MakeTimeTable
 {
@@ -6,7 +7,11 @@ namespace IAD_MakeTimeTable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string contents = System.IO.File.ReadAllText("C:\\Users\\lokaleradmin\\Documents\\stundenplan.json",System.Text.Encoding.UTF8);
+            contents = contents.Replace("[", "");
+            contents = contents.Replace("]", "");
+            IADPlan DerPlan = JsonSerializer.Deserialize<IADPlan>(contents);
+            Console.WriteLine(contents);
         }
     }
 }
