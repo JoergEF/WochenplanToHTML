@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using System.Text.Json.Serialization;
+
 
 
 namespace IAD_MakeTimeTable
 {
-    class IADPlan
+    class IADPlan // eine Klasse als Datentyp um den Plan aufzunehmen
     {
-        public int KW { get; set; }
+        public int KW { get; set; } // erstes Key-Value-Paar
+        [JsonConverter(typeof(DictionaryStringObjectJsonConverter))] // Dekorator, um die Überladung zu registrieren, gilt für die nächste Variable
         public Dictionary<string, object> Plan { get; set; }
     }
 }

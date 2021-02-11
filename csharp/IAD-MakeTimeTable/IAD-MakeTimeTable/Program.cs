@@ -8,10 +8,10 @@ namespace IAD_MakeTimeTable
         static void Main(string[] args)
         {
             string contents = System.IO.File.ReadAllText("C:\\Users\\lokaleradmin\\Documents\\stundenplan.json",System.Text.Encoding.UTF8);
-            contents = contents.Replace("[", "");
-            contents = contents.Replace("]", "");
+            contents = contents.Replace("[", ""); // remove Dict-Start in Line 0
+            contents = contents.Replace("]", ""); // remove Dict-End at the End of File
             IADPlan DerPlan = JsonSerializer.Deserialize<IADPlan>(contents);
-            Console.WriteLine(contents);
+            Console.WriteLine(JsonSerializer.Serialize(DerPlan, new JsonSerializerOptions() { WriteIndented = true })); // Test-Ausgabe der Daten
         }
     }
 }
