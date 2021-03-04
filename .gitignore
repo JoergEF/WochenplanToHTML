@@ -322,7 +322,7 @@ __pycache__/
 *.btp.cs
 *.btm.cs
 *.odx.cs
-*.xsd.cs
+*.xsd.css
 
 # OpenCover UI analysis results
 OpenCover/
@@ -347,3 +347,6 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+
+# MacOS
+.DS*
