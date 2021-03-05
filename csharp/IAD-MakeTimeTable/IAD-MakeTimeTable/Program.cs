@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text.Json;
+using Scriban;
 
 namespace IAD_MakeTimeTable
 {
@@ -11,7 +12,11 @@ namespace IAD_MakeTimeTable
             contents = contents.Replace("[", ""); // remove Dict-Start in Line 0
             contents = contents.Replace("]", ""); // remove Dict-End at the End of File
             IADPlan DerPlan = JsonSerializer.Deserialize<IADPlan>(contents);
-            Console.WriteLine(JsonSerializer.Serialize(DerPlan, new JsonSerializerOptions() { WriteIndented = true })); // Test-Ausgabe der Daten
+            // Console.WriteLine(JsonSerializer.Serialize(DerPlan, new JsonSerializerOptions() { WriteIndented = true })); // Test-Ausgabe der Daten
+            string templateFile = System.IO.File.ReadAllText("C:\\Users\\lokaleradmin\\Documents\\template.tmpl", System.Text.Encoding.UTF8);
+            var template = Template.Parse(templateFile);
+            var result = template.Render(DerPlan);
+            Console.Write(result);
         }
     }
 }
