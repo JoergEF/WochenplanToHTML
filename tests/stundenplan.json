@@ -1,0 +1,1447 @@
+[
+   {
+      "KW": 52,
+      "Plan": {
+         "FI 27-A": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "FI 28-A": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "FI 28-S": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "FI 29-A": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "FI 29-S": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "FI 30-A": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "FI 30-S": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "MG 15": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "MG 16": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "StFA 4": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "StFA 5": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "PDK 12": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "J.Lange",
+                     "Raum": "F3"
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "J.Lange",
+                     "Raum": "F3"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung m\u00FCndliche Pr\u00FCfung",
+                     "Trainer": "STS",
+                     "Raum": "F3"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "PDK 13": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "IKM 1": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KBM 4": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Praktikum"
+                  },
+                  "nachmittags": {
+                     "Fach": "Praktikum"
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KBM 5": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "Ferien"
+                  },
+                  "nachmittags": {
+                     "Fach": "Ferien"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KFF IT 7": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  },
+                  "nachmittags": {
+                     "Fach": "English",
+                     "Trainer": "A.Hoffmann",
+                     "Raum": 1
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KFF IT 8": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Hofmann",
+                     "Raum": 5
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Hofmann",
+                     "Raum": 5
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Hofmann",
+                     "Raum": 5
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Hofmann",
+                     "Raum": 5
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Hofmann",
+                     "Raum": 5
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Hofmann",
+                     "Raum": 5
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KFF IT 9": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  },
+                  "nachmittags": {
+                     "Fach": "Projekt",
+                     "Trainer": "Lohse",
+                     "Raum": 4
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "IT KC Kaufleute 3": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  },
+                  "nachmittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  },
+                  "nachmittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  },
+                  "nachmittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KFF KM 6": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  },
+                  "nachmittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  },
+                  "nachmittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  },
+                  "nachmittags": {
+                     "Fach": "Lohn- und Gehaltsabrechnungen mit DATEV",
+                     "Trainer": "Ehrhardt",
+                     "Raum": 3
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KFF KM 7": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Kaufm\u00E4nnisches Wissen in der Finanzbuchhaltung",
+                     "Trainer": "T.Geisler",
+                     "Raum": 6
+                  },
+                  "nachmittags": {
+                     "Fach": "Kaufm\u00E4nnisches Wissen in der Finanzbuchhaltung",
+                     "Trainer": "T.Geisler",
+                     "Raum": 6
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Kaufm\u00E4nnisches Wissen in der Finanzbuchhaltung",
+                     "Trainer": "T.Geisler",
+                     "Raum": 6
+                  },
+                  "nachmittags": {
+                     "Fach": "Kaufm\u00E4nnisches Wissen in der Finanzbuchhaltung",
+                     "Trainer": "T.Geisler",
+                     "Raum": 6
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Kaufm\u00E4nnisches Wissen in der Finanzbuchhaltung",
+                     "Trainer": "T.Geisler",
+                     "Raum": 6
+                  },
+                  "nachmittags": {
+                     "Fach": "Kaufm\u00E4nnisches Wissen in der Finanzbuchhaltung",
+                     "Trainer": "T.Geisler",
+                     "Raum": 6
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KFF KM 8": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "IT KC Kaufleute 23": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Zeitmangagement",
+                     "Trainer": "Wiemann",
+                     "Raum": 9
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "IT KC Kaufleute 18": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "IT KC Kaufleute 35": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung",
+                     "Trainer": "STS",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung",
+                     "Trainer": "STS",
+                     "Raum": 9
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung",
+                     "Trainer": "STS",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung",
+                     "Trainer": "STS",
+                     "Raum": 9
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung",
+                     "Trainer": "STS",
+                     "Raum": 9
+                  },
+                  "nachmittags": {
+                     "Fach": "Pr\u00FCfungsvorbereitung",
+                     "Trainer": "STS",
+                     "Raum": 9
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         },
+         "KC BB 4": {
+            "Inhalte": {
+               "Montag": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Dienstag": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Mittwoch": {
+                  "vormittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  },
+                  "nachmittags": {
+                     "Fach": "Umsatzsteuer",
+                     "Trainer": "Langer",
+                     "Raum": 7
+                  }
+               },
+               "Donnerstag": {
+                  "vormittags": {
+                     "Fach": "frei"
+                  },
+                  "nachmittags": {
+                     "Fach": "frei"
+                  }
+               },
+               "Freitag": {
+                  "vormittags": {
+                     "Fach": "Feiertag"
+                  },
+                  "nachmittags": {
+                     "Fach": "Feiertag"
+                  }
+               }
+            }
+         }
+      }
+   }
+]
