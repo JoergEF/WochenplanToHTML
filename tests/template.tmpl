@@ -1,0 +1,17 @@
+KW: {{ KW }}
+
+{{~ for group in Plan ~}}
+	Klasse: {{ group.Key }}
+	{{~ for inhalt in group.Value ~}}
+		{{~ for day in inhalt.Value ~}}
+			Tag: {{ day.Key }}
+			{{~ for tageszeit in day.Value ~}}
+				{{ tageszeit.Key }}
+				{{~ for course in tageszeit.Value ~}}
+					{{ course.Key }}: {{ course.Value }}
+				{{~ end ~}}
+			{{~ end ~}}
+		{{~ end ~}}
+	{{~ end ~}}
+{{~ end ~}}
+===
