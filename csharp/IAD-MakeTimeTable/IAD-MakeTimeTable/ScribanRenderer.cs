@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Scriban;
 using Scriban.Runtime;
-using System.Text.Json;
-using System.Dynamic;
 
 namespace IAD_MakeTimeTable
 {
     public static class ScribanRenderer
     {
+
+        // statische Klasse zum Rendern von verschachtelten Dictionaries mit Scriban.
+        // Quelltext von: https://github.com/scriban/scriban/issues/115
+
         public static string Render(string templateBody, Object model)
         {
             var template = Template.Parse(templateBody);
