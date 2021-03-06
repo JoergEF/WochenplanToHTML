@@ -7,9 +7,15 @@ KW: {{ KW }}
 			Tag: {{ day.Key }}
 			{{~ for tageszeit in day.Value ~}}
 				{{ tageszeit.Key }}
-				{{~ for course in tageszeit.Value ~}}
-					{{ course.Key }}: {{ course.Value }}
-				{{~ end ~}}
+					{{~ if tageszeit.Value.Fach ~}}
+					Fach:    {{ tageszeit.Value.Fach }}
+					{{~ end ~}}
+					{{~ if tageszeit.Value.Trainer ~}}
+					Trainer: {{ tageszeit.Value.Trainer }}
+					{{~ end ~}}
+					{{~ if tageszeit.Value.Raum ~}}
+					Raum:    {{ tageszeit.Value.Raum }}
+					{{~ end ~}}
 			{{~ end ~}}
 		{{~ end ~}}
 	{{~ end ~}}
